@@ -1,0 +1,27 @@
+.bg-color {
+   
+    font-family: "Lucida Console";
+
+  
+  background: linear-gradient(120grad, rgb(100, 57, 134), rgb(152, 174, 213));
+}
+
+div {
+    color: white;
+   
+}
+
+.btn-rounded {
+    border-radius: 30px;
+    background-color: white;
+    font-family: "Times New Roman";
+    
+    
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+

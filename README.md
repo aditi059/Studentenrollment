@@ -19,9 +19,8 @@ It helps developers in faster coding, in-turn reduces development cost.
 # -Screenshots
 ![image](https://github.com/aditi059/Studentenrollment/assets/121781703/b5019e0f-be81-44e0-ae84-94689a99e0d1)
 
-![image](https://github.com/aditi059/Studentenrollment/assets/121781703/fb61921a-b506-4321-8851-ebd6a63d142a)
+![image](https://github.com/aditi059/Studentenrollment/assets/121781703/fda3b470-1245-496e-b3a2-e1c6573ef6b5)
 
-![Uploading image.png…]()
 
 
 
